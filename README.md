@@ -2,7 +2,7 @@
 A simple Leaflet map template for new users to copy, modify, and experiment
 
 ## Link to my live map (replace with link to your site)
-link to site https://masatoshiueno.github.io/leaflet-map-participants"
+link to site https://masatoshiueno.github.io/leaflet-map-participants
 
 <iframe src="https://masatoshiueno.github.io/leaflet-map-participants" width="590%" height="50"></iframe>
 
